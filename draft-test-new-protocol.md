@@ -19,7 +19,7 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
+title: "New Draft"
 abbrev: "TODO - Abbreviation"
 category: info
 
@@ -45,9 +45,9 @@ venue:
 
 author:
  -
-    fullname: Your Name Here
+    fullname: Joe Salowey
     organization: Your Organization Here
-    email: your.email@example.com
+    email: jsalowey@gmail.com
 
 normative:
 
