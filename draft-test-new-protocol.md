@@ -1,16 +1,15 @@
 ---
 title: "New Draft"
-abbrev: "TODO - Abbreviation"
 category: info
 
 docname: draft-test-new-protocol-latest
-submissiontype: IETF  # also: "independent", "IAB", or "IRTF"
+submissiontype: independent  # also: "independent", "IAB", or "IRTF"
 number:
 date:
 consensus: true
 v: 3
-# area: AREA
-# workgroup: WG Working Group
+# area: Security
+# workgroup: None
 keyword:
  - next generation
  - unicorn
