@@ -6,7 +6,7 @@ docname: draft-test-new-protocol-latest
 submissiontype: independent  # also: "independent", "IAB", or "IRTF"
 number:
 date:
-consensus: true
+consensus: false
 v: 3
 # area: Security
 # workgroup: None
